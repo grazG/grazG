@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @grazG
-- 👀 I’m interested in ... cybersecurity and software development 
-- 🌱 I’m currently learning ... C++, C, and Python 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cybersecurity and software development 
+- 🌱 I’m currently learning C++, C, and Python 
+- 💞️ I’m looking to collaborate on i dont knowww
 - 📫 How to reach me: text me
 
 <!---
